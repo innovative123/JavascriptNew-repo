@@ -17,7 +17,7 @@ stringBasic()
 
 console.log(" ");
 
-
+Ar
 console.log("-------------------Assign 2----------------");
 function stringHandsOn(){
    
