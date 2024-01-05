@@ -27,3 +27,10 @@ var isEvenOrOdd = function (num) {
   console.log(`30 Given number is ${result}`);
   
   
+  var e = 5;
+  
+for(let index = 1 ; index <= 10; index ++)
+{
+    
+    console.log(e * index);
+}
